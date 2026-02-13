@@ -4,7 +4,7 @@
     --gt-error: #ff3366;
     --gt-info: #00d4ff;
     --gt-warning: #ffcc00;
-    --gt-glass: rgba(255, 255, 255, 0.1);
+    --gt-glass: rgba(255, 255, 255, 0.9);
     --gt-border: rgba(255, 255, 255, 0.2);
 }
 
@@ -45,7 +45,7 @@
 
 .glass-toast:hover {
     transform: scale(1.02) translateZ(20px);
-    background: rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.82);
 }
 
 .gt-content {
